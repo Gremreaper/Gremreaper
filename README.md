@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python and Django Full-stack Development, Algorithms and Design Principles**
 
-- 👨‍💻 All of my projects are available at [https://https://personal-portfolio-ka8a.vercel.app//]
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-ka8a.vercel.app]
 
 - 💬 Ask me about **Operating Systems,Data Structures,Networks,Object Oriented Programming**
 
