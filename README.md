@@ -5,25 +5,36 @@
 </h3>
 <img align="right" src="https://i.gifer.com/NvL.gif" alt="GIF" width="400"/>
 
-<h2>📌 About Me</h2>
+## 📌 About Me
 
-<ul>
-  <li>🌱 Currently learning <strong>Full-Stack Development</strong>, <strong>Advanced Algorithms</strong>, and <strong>Low-Level Design Principles</strong>.</li>
+<table>
+  <tr>
+    <td>
 
-  <li>👨‍💻 Check out my projects: 
-    <a href="https://personal-portfolio-ka8a.vercel.app" target="_blank" rel="noreferrer">
-      personal-portfolio-ka8a.vercel.app
-    </a>
-  </li>
+- 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
+- 👨‍💻 Check out my projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
+- ⚙️ I enjoy exploring **Operating Systems**, **Data Structures & Algorithms**, **Networks**, and **OOP**. Tech fuels me, innovation drives me, and AI keeps me endlessly curious.  
+- 📫 Reach me at: **gautamsrivastava141@gmail.com**  
+  <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" />
 
-  <li>⚙️ I enjoy exploring <strong>Operating Systems</strong>, <strong>Data Structures & Algorithms</strong>, <strong>Networks</strong>, and <strong>OOP</strong>.  
-  Tech fuels me, innovation drives me, and AI keeps me endlessly curious.</li>
+<!-- Add your tech icons here -->
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
 
-  <li>📫 Reach me at: <strong>gautamsrivastava141@gmail.com</strong>
-    &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" />
-  </li>
-</ul>
+</td>
+<td>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="300"/>
+</td>
+  </tr>
+</table>
+
 
 
 
