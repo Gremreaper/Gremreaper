@@ -5,13 +5,11 @@
 </h3>
 
 ## 📌 About Me
-
-
-
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
-- 📫 Reach me at: **gautamsrivastava141@gmail.com**  
+- 📫 Reach me at: **gautamsrivastava141@gmail.com**
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" />
 
 <p>
