@@ -1,18 +1,29 @@
 
 <h1 align="center">Hi 👋, I'm Gautam Srivastava</h1>
-<h3 align="center">A passionate Computer Science undergraduate from India with a strong focus on software development and problem-solving.</h3>
+<h3 align="center">
+  Electronics and Computer Engineering graduate with hands-on experience in software development, a strong grasp of core CS fundamentals, and a passion for innovation and AI.
+</h3>
 <img align="right" src="https://i.gifer.com/NvL.gif" alt="GIF" width="400"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" /> </p>
 
-- 🌱 I’m currently learning **Full-stack Development, Advanced Algorithms and Low-Level Design Principles**
+<h2>📌 About Me</h2>
 
-- 👨‍💻 All of my projects are available at https://personal-portfolio-ka8a.vercel.app
-
-- ⚙️ Love diving deep into Operating Systems, DSA, Networks, and OOP. Tech excites me, innovation drives me, and AI keeps me endlessly curious.
-
-- 📫 How to reach me **gautamsrivastava141@gmail.com**
+<ul>
+  <li>🌱 Currently learning <strong>Full-Stack Development</strong>, <strong>Advanced Algorithms</strong>, and <strong>Low-Level Design Principles</strong>.</li>
+  
+  <li>👨‍💻 Check out my projects: 
+    <a href="https://personal-portfolio-ka8a.vercel.app" target="_blank" rel="noreferrer">
+      personal-portfolio-ka8a.vercel.app
+    </a>
+  </li>
+  
+  <li>⚙️ I enjoy exploring <strong>Operating Systems</strong>, <strong>Data Structures & Algorithms</strong>, <strong>Networks</strong>, and <strong>OOP</strong>.  
+  Tech fuels me, innovation drives me, and AI keeps me endlessly curious.</li>
+  
+  <li>📫 Reach me at: <strong>gautamsrivastava141@gmail.com</strong></li>
+</ul>
 
 
 <p align="left">
@@ -82,6 +93,8 @@
   <li>Global Rank 421 in <strong>CodeChef Starters 141</strong> (Division 4).</li>
 </ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact" alt="gremreaper" /></p>
-
-![](https://leetcard.jacoblin.cool/Gautams_2202?ext=contest)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact" alt="gremreaper" width="350"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/Gautams_2202?ext=contest" alt="LeetCode stats" width="350"/>
+</div>
