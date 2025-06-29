@@ -28,6 +28,28 @@
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git"/>
+
+  <!-- Regex (using Regex101 as placeholder icon) -->
+<img src="https://img.icons8.com/ios-filled/50/regular-expression.png" width="30" alt="Regex"/>
+
+<!-- Vim Editor -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30" alt="Vim"/>
+
+<!-- Sublime Text -->
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="30" alt="Sublime Text"/>
+
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
+
+<!-- PyCharm -->
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="30" alt="PyCharm"/>
+
+<!-- Atom -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="30" alt="Atom"/>
+
+<!-- JSON -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="30" alt="JSON"/>
+
 </p>
 <h2>💼 Internship Experience</h2>
 
