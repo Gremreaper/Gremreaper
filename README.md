@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" /> </p>
 
-- 🌱 I’m currently learning **Python and Django Full-stack Development, Algorithms and Design Principles**
+- 🌱 I’m currently learning **Python and Django Full-stack Development, Algorithms and Low-Level Design Principles**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-ka8a.vercel.app
 
