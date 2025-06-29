@@ -5,25 +5,26 @@
 </h3>
 <img align="right" src="https://i.gifer.com/NvL.gif" alt="GIF" width="400"/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" /> </p>
-
 <h2>📌 About Me</h2>
 
 <ul>
   <li>🌱 Currently learning <strong>Full-Stack Development</strong>, <strong>Advanced Algorithms</strong>, and <strong>Low-Level Design Principles</strong>.</li>
-  
+
   <li>👨‍💻 Check out my projects: 
     <a href="https://personal-portfolio-ka8a.vercel.app" target="_blank" rel="noreferrer">
       personal-portfolio-ka8a.vercel.app
     </a>
   </li>
-  
+
   <li>⚙️ I enjoy exploring <strong>Operating Systems</strong>, <strong>Data Structures & Algorithms</strong>, <strong>Networks</strong>, and <strong>OOP</strong>.  
   Tech fuels me, innovation drives me, and AI keeps me endlessly curious.</li>
-  
-  <li>📫 Reach me at: <strong>gautamsrivastava141@gmail.com</strong></li>
+
+  <li>📫 Reach me at: <strong>gautamsrivastava141@gmail.com</strong>
+    &nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" />
+  </li>
 </ul>
+
 
 
 <p align="left">
