@@ -15,7 +15,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<h1><strong>Languages and Tools:</strong></h1>
+<h1><strong>🧬 Languages and Tools:</strong></h1>
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" alt="C"/>
@@ -57,7 +57,7 @@
 
 </p>
 <h2>💼 Internship Experience</h2>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200" alt="About Me GIF" />
+<img align="right" margin-right="30px" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200" alt="About Me GIF" />
 <ul>
   <li>
     <strong>Cadence Design Systems</strong> — <em>Software Engineer Intern</em><br>
