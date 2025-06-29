@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" /> </p>
 
-- 🌱 I’m currently learning **Python and Django Full-stack Development, Algorithms and Low-Level Design Principles**
+- 🌱 I’m currently learning ** Full-stack Development, Advanced Algorithms and Low-Level Design Principles**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-ka8a.vercel.app
 
-- 💬 Ask me about **Operating Systems,Data Structures,Networks,Object Oriented Programming**
+- ⚙️ Love diving deep into Operating Systems, DSA, Networks, and OOP. Tech excites me, innovation drives me, and AI keeps me endlessly curious.
 
 - 📫 How to reach me **gautamsrivastava141@gmail.com**
 
@@ -58,6 +58,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+<h2>💼 Internship Experience</h2>
+
+<ul>
+  <li>
+    <strong>Cadence Design Systems</strong> — <em>Software Engineer Intern</em><br>
+    <span>Mar 2025 – Jun 2025</span>
+  </li>
+  <br>
+  <li>
+    <strong>Swaransoft Solutions Pvt. Ltd.</strong> — <em>Software Engineering Intern</em><br>
+    <span>Feb 2025 – Mar 2025</span>
+  </li>
+</ul>
+
 
 
 
