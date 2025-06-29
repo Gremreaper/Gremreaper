@@ -11,7 +11,9 @@
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
-- 📫 Reach me at: **gautamsrivastava141@gmail.com**  
+- 📫 Reach me at: **gautamsrivastava141@gmail.com**
+- 🎧 **Currently Playing:** `Lost in the Echo - Linkin Park`  
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Now Playing Bar" /> 
 &nbsp;
 &nbsp;
 &nbsp;
