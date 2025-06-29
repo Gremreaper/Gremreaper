@@ -12,6 +12,7 @@
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
 - 📫 Reach me at: **gautamsrivastava141@gmail.com**
+  
 &nbsp;
 &nbsp;
 &nbsp;
