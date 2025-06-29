@@ -82,9 +82,6 @@
   <li>Global Rank 421 in <strong>CodeChef Starters 141</strong> (Division 4).</li>
 </ul>
 
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact" alt="gremreaper" /></p>
 
 ![](https://leetcard.jacoblin.cool/Gautams_2202?ext=contest)
