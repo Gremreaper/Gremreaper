@@ -52,8 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
 
-  <!-- n8n Automation -->
-  <img src="https://n8n.io/images/n8n-logo.svg" width="30" alt="n8n Automation"/>
+
 
 </p>
 <h2>💼 Internship Experience</h2>
