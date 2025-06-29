@@ -55,5 +55,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact" alt="gremreaper" width="350"/>
   &nbsp;&nbsp;&nbsp;
-  <img src ="https://leetcard.jacoblin.cool/Gautams_2202?ext=contest"alt="LeetCode stats" width="350"/>
+  <img src ="https://leetcard.jacoblin.cool/Gautams_2202?ext=heatmap"alt="LeetCode stats" width="350"/>
 </div>
