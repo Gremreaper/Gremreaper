@@ -8,16 +8,15 @@
 ## 📌 About Me
 
 <table>
-  <tr>
-    <td>
+<tr>
+<td width="60%">
 
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
-- 👨‍💻 Check out my projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
-- ⚙️ I enjoy exploring **Operating Systems**, **Data Structures & Algorithms**, **Networks**, and **OOP**. Tech fuels me, innovation drives me, and AI keeps me endlessly curious.  
+- 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
+- ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
 - 📫 Reach me at: **gautamsrivastava141@gmail.com**  
-  <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" />
+  <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" />
 
-<!-- Add your tech icons here -->
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
@@ -29,11 +28,9 @@
 </p>
 
 </td>
-<td>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="300"/>
-</td>
-  </tr>
-</table>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu
 
 
 
