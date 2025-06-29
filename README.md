@@ -6,12 +6,15 @@
 
 ## 📌 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="200" alt="Coding Guy GIF" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="220" alt="Coding Guy GIF" />
 
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
 - 📫 Reach me at: **gautamsrivastava141@gmail.com**  
+&nbsp;
+&nbsp;
+&nbsp;
 <h1><strong>Languages and Tools:</strong></h1>
 <p align="left">
   <!-- Programming Languages -->
@@ -54,7 +57,7 @@
 
 </p>
 <h2>💼 Internship Experience</h2>
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200" alt="About Me GIF" />
 <ul>
   <li>
     <strong>Cadence Design Systems</strong> — <em>Software Engineer Intern</em><br>
