@@ -29,8 +29,7 @@
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git"/>
 
-  <!-- Regex (using Regex101 as placeholder icon) -->
-<img src="https://img.icons8.com/ios-filled/50/regular-expression.png" width="30" alt="Regex"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
 
 <!-- Vim Editor -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30" alt="Vim"/>
