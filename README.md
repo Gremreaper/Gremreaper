@@ -30,12 +30,11 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="250"/>
+
+</td>
 </tr>
 </table>
-
-
-
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
