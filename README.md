@@ -6,13 +6,12 @@
 
 ## 📌 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coding Guy GIF" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="100" alt="Coding Guy GIF" />
 
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
 - 📫 Reach me at: **gautamsrivastava141@gmail.com**  
-  <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" />
 <h1><strong>Languages and Tools:</strong></h1>
 <p align="left">
   <!-- Programming Languages -->
