@@ -4,7 +4,7 @@
   Electronics and Computer Engineering graduate with hands-on experience in software development, a strong grasp of core CS fundamentals, and a passion for innovation and AI.
 </h3>
 
-## 📌 About Me
+## 📌 About Me:
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="200" alt="Coding Guy GIF" />
 
@@ -63,7 +63,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
 
 </p>
-<h2>💼 Internship Experience</h2>
+<h2>💼 Internship Experience:</h2>
 <img align="right" margin-right="100" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" alt="About Me GIF" />
 <ul>
   <li>
@@ -86,7 +86,7 @@
 &nbsp;
 
 
-<h2>🏆 Achievements</h2>
+<h2>🏆 Achievements:</h2>
 
 <ul>
   <li>Finalist in IIT Guwahati’s Escalade 16.0 Bot Competition – Top 10 among 200+ national teams.</li>
