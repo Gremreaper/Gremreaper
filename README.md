@@ -3,7 +3,6 @@
 <h3 align="center">
   Electronics and Computer Engineering graduate with hands-on experience in software development, a strong grasp of core CS fundamentals, and a passion for innovation and AI.
 </h3>
-<img align="right" src="https://i.gifer.com/NvL.gif" alt="GIF" width="400"/>
 
 ## 📌 About Me
 
