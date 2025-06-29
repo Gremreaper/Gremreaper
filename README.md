@@ -47,10 +47,11 @@
 <!-- Atom -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="30" alt="Atom"/>
 
-<!-- JSON -->
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="30" alt="JSON"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
+
+<!-- n8n Automation (PNG fallback) -->
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png" width="30" alt="n8n Automation"/>
+
 
 
 
