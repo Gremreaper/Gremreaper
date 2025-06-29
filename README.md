@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rmd3R2enprZ2VsdzYweWRnNnB6amFybDY0ZWZyc2N2ZmFob3R2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="250" />
+
 
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
