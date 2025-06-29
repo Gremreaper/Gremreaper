@@ -5,6 +5,15 @@
 </h3>
 
 ## 📌 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coding Guy GIF" />
+
+- 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
+- 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
+- ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
+- 📫 Reach me at: **gautamsrivastava141@gmail.com**  
+  <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" />
+
 - 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
 - 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
 - ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
@@ -48,12 +57,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="30" alt="Atom"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
-
-<!-- n8n Automation (PNG fallback) -->
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png" width="30" alt="n8n Automation"/>
-
-
-
 
 </p>
 <h2>💼 Internship Experience</h2>
