@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gremreaper&label=Profile%20views&color=0e75b6&style=flat" alt="gremreaper" /> </p>
 
-- 🌱 I’m currently learning ** Full-stack Development, Advanced Algorithms and Low-Level Design Principles**
+- 🌱 I’m currently learning **Full-stack Development, Advanced Algorithms and Low-Level Design Principles**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-ka8a.vercel.app
 
@@ -71,6 +71,15 @@
     <strong>Swaransoft Solutions Pvt. Ltd.</strong> — <em>Software Engineering Intern</em><br>
     <span>Feb 2025 – Mar 2025</span>
   </li>
+</ul>
+
+<h2>🏆 Achievements</h2>
+
+<ul>
+  <li>Finalist in IIT Guwahati’s Escalade 16.0 Bot Competition – Top 10 among 200+ national teams.</li>
+  <li>1650+ rating on <strong>LeetCode</strong> and 3-star (1700+) coder on <strong>GeeksforGeeks</strong>.</li>
+  <li>Secured 4<sup>th</sup> position among 300+ participants in a college-level coding competition.</li>
+  <li>Global Rank 421 in <strong>CodeChef Starters 141</strong> (Division 4).</li>
 </ul>
 
 
