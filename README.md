@@ -91,9 +91,9 @@
 
 <ul>
   <li>Finalist in IIT Guwahati’s Escalade 16.0 Bot Competition – Top 10 among 200+ national teams.</li>
-  <li>1650+ rating on <strong>LeetCode</strong> and 3-star (1700+) coder on <strong>GeeksforGeeks</strong>.</li>
+  <li>1850+ rating(Knight) on <strong>LeetCode</strong> and 3-star (1700+) coder on <strong>GeeksforGeeks</strong>.</li>
   <li>Secured 4<sup>th</sup> position among 300+ participants in a college-level coding competition.</li>
-  <li>Global Rank 421 in <strong>CodeChef Starters 141</strong> (Division 4).</li>
+  
 </ul>
 
 <div align="center">
