@@ -1,103 +1,130 @@
-
-<h1 align="center">Hi 👋, I'm Gautam Srivastava</h1>
-<h3 align="center">
-  Electronics and Computer Engineering graduate with hands-on experience in software development, a strong grasp of core CS fundamentals, and a passion for innovation and AI.
-</h3>
-
-## 📌 About Me:
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="200" alt="Coding Guy GIF" />
-
-- 🌱 Currently learning **Full-Stack Development**, **Advanced Algorithms**, and **Low-Level Design Principles**  
-- 👨‍💻 Projects: [personal-portfolio-ka8a.vercel.app](https://personal-portfolio-ka8a.vercel.app)  
-- ⚙️ Exploring **OS**, **DSA**, **Networks**, and **OOP**. Tech excites me, AI fascinates me.  
-- 📫 Reach me at: **gautamsrivastava141@gmail.com**
-  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<h1><strong>🧬 Languages and Tools:</strong></h1>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://api.iconify.design/logos-perl.svg" width="30" alt="Perl"/>
-
-  <!-- Web Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" alt="Bootstrap"/>
-
-  <!-- Frameworks & DB -->
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" alt="GitHub"/>
-
-<!-- Vim Editor -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30" alt="Vim"/>
-
-<!-- Sublime Text -->
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="30" alt="Sublime Text"/>
-
-<!-- VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
-
-<!-- PyCharm -->
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="30" alt="PyCharm"/>
-
-<!-- Atom -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="30" alt="Atom"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="30" alt="WordPress"/>
-
-</p>
-<h2>💼 Internship Experience:</h2>
-<img align="right" margin-right="100" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" alt="About Me GIF" />
-<ul>
-  <li>
-    <strong>Cadence Design Systems</strong> — <em>Software Engineer Intern</em><br>
-    <span>Mar 2025 – Jun 2025</span>
-  </li>
-  <br>
-  <li>
-    <strong>Swaransoft Solutions Pvt. Ltd.</strong> — <em>Software Engineering Intern</em><br>
-    <span>Feb 2025 – Mar 2025</span>
-  </li>
-</ul>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-<h2>🏆 Achievements:</h2>
-
-<ul>
-  <li>Finalist in IIT Guwahati’s Escalade 16.0 Bot Competition – Top 10 among 200+ national teams.</li>
-  <li>1850+ rating(Knight) on <strong>LeetCode</strong> and 3-star (1700+) coder on <strong>GeeksforGeeks</strong>.</li>
-  <li>Secured 4<sup>th</sup> position among 300+ participants in a college-level coding competition.</li>
-  
-</ul>
+<h1 align="center">⚡ Gautam Srivastava ⚡</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact" alt="gremreaper" width="350"/>
-  &nbsp;&nbsp;&nbsp;
-<img src="https://leetcard.jacoblin.cool/Gautams_2202?ext=heatmap" alt="LeetCode Heatmap" width="400"/>
+
+### Backend Engineering • Scalable Systems • Problem Solving
+
+> *"Cold discipline > loud talent."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;DSA+%7C+System+Design+%7C+Networking;Building+Scalable+Applications;No+Hype.+Just+Output." />
+
+</div>
+
+---
+
+## ⚔️ About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+
+- 🧠 Focused on **Backend Engineering**, **Scalable Systems**, and **Core CS Fundamentals**
+- ⚡ Solving problems using **DSA**, **OOPs**, **System Design**, and **Computer Networks**
+- 🛠️ Building projects with **Node.js**, **MongoDB**, **Salesforce**, and modern backend tools
+- 🚀 Exploring **Low-Level Design**, **Distributed Systems**, and **AI-powered workflows**
+- 📈 1870+ LeetCode Rating (Knight)
+- 🎯 Motto: *“Someday the results will silence everything.”*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,sql"/>
+
+### Backend & Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,react"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🚀 Software Development Engineer — Capgemini
+`Dec 2025 - Present`
+
+- Developing scalable Salesforce Health Cloud solutions
+- Building automation workflows and backend-driven business features
+- Implementing Apex + LWC based enterprise solutions
+
+---
+
+### ⚡ Software Engineer Intern — Cadence Design Systems
+`Mar 2025 - Jun 2025`
+
+- Automated regression testing workflows using Perl & Regex
+- Built internal scripts reducing manual effort significantly
+- Worked on EDA backend tooling and low-power test extraction
+
+---
+
+### 🔥 Software Engineering Intern — Swaransoft Solutions
+`Feb 2025 - Mar 2025`
+
+- Built automation-driven AI workflows using n8n
+- Improved organizational platforms and frontend responsiveness
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Finalist — IIT Guwahati Escalade 16.0 (Top 10 / 200+ teams)
+- ⚔️ 1870+ LeetCode Rating (Knight)
+- ⭐ 4-Star GeeksforGeeks Coder
+- 🧠 Strong foundation in DSA, OS, DBMS, CN, and OOPs
+
+---
+
+## 📊 Developer Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gremreaper&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gremreaper&theme=tokyonight&hide_border=true" width="47%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gremreaper&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+<img src="https://leetcard.jacoblin.cool/Gautams_2202?ext=heatmap&theme=dark" width="50%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://personal-portfolio-ka8a.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gautam2202">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Gautams_2202/">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ No hype. Just output.
+
 </div>
