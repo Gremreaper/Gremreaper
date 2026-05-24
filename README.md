@@ -27,28 +27,33 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,sql"/>
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,sql,perl"/>
 
 <br><br>
 
-### Backend & Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,react"/>
+## ⚙️ Backend & Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,react,wordpress"/>
 
 <br><br>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,eclipse"/>
 
 <br><br>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Apex_Programming-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
@@ -56,44 +61,48 @@
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🚀 Software Development Engineer — Capgemini
+## 🚀 Software Development Engineer — Capgemini
 `Dec 2025 - Present`
 
 - Developing scalable Salesforce Health Cloud solutions
 - Building automation workflows and backend-driven business features
 - Implementing Apex + LWC based enterprise solutions
+- Working with Jira-driven agile development workflows
 
 ---
 
-### ⚡ Software Engineer Intern — Cadence Design Systems
+## ⚡ Software Engineer Intern — Cadence Design Systems
 `Mar 2025 - Jun 2025`
 
 - Automated regression testing workflows using Perl & Regex
 - Built internal scripts reducing manual effort significantly
 - Worked on EDA backend tooling and low-power test extraction
+- Improved testing efficiency through automation scripting
 
 ---
 
-### 🔥 Software Engineering Intern — Swaransoft Solutions
+## 🔥 Software Engineering Intern — Swaransoft Solutions
 `Feb 2025 - Mar 2025`
 
 - Built automation-driven AI workflows using n8n
 - Improved organizational platforms and frontend responsiveness
+- Worked on workflow optimization and automation systems
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 - 🥇 Finalist — IIT Guwahati Escalade 16.0 (Top 10 / 200+ teams)
 - ⚔️ 1870+ LeetCode Rating (Knight)
 - ⭐ 4-Star GeeksforGeeks Coder
 - 🧠 Strong foundation in DSA, OS, DBMS, CN, and OOPs
+- 🏅 Led technical initiatives and mentored peers in coding activities
 
 ---
 
-## 📊 Developer Stats
+# 📊 Developer Stats
 
 <div align="center">
 
@@ -115,7 +124,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -141,6 +150,6 @@
 
 <div align="center">
 
-## ⚡ No hype. Just output.
+# ⚡ No hype. Just output.
 
 </div>
