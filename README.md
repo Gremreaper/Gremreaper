@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### Backend Engineering • Scalable Systems • Problem Solving
+### Software Engineer in Progress • Backend Engineering • Scalable Systems
 
 > *"Cold discipline > loud talent."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;DSA+%7C+System+Design+%7C+Networking;Building+Scalable+Applications;No+Hype.+Just+Output." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Backend+Engineering+%7C+Scalable+Systems;DSA+%7C+System+Design+%7C+Networking;No+Hype.+Just+Output." />
 
 </div>
 
@@ -33,7 +33,13 @@
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,sql,perl"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
 
 <br><br>
 
