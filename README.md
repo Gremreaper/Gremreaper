@@ -34,11 +34,23 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,sql"/>
 
+<br><br>
+
 ### Backend & Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,react"/>
 
+<br><br>
+
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apex_Programming-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </div>
 
@@ -117,6 +129,10 @@
 
 <a href="https://leetcode.com/u/Gautams_2202/">
   <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
