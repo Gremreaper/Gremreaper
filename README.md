@@ -18,7 +18,7 @@
 
 - 🧠 Focused on **Backend Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
 - ⚡ Solving problems using **DSA**, **OOPs**, **System Design**, and **Computer Networks**
-- 🛠️ Learning and Building projects with **Java**, **SpringBoot**, **Node.js**, **MongoDB**, **Salesforce**, and modern backend tools
+- 🛠️ Learning and Building projects with **Python**, **FastAPI**, **Node.js**, **MongoDB**, **Salesforce**, and modern backend tools
 - 🚀 Exploring **Low-Level Design**, **Distributed Systems**, and **AI-powered workflows**
 - 📈 1870+ LeetCode Rating (Knight)
 - 🎯 Motto: *“Someday the results will silence everything.”*
