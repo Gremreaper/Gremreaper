@@ -33,13 +33,9 @@
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,perl"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
 
 <br><br>
 
