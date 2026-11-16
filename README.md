@@ -18,7 +18,7 @@
 
 - 🧠 Focused on **Software Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
 - ⚡ Solving problems using **Data Structures and Algorithms**, **Object-Oriented Design Principles and Patterns** and ** System Design Fundamentals**
-- 🛠️ Learning and Building projects with **Python**, **C++** **FastAPI**, **Docker**, **Postgresql**, **MCP and AI Integration**, and modern backend tools
+- 🛠️ Learning and Building projects with **Python**, **C++**, **FastAPI**, **Docker**, **Postgresql**, **MCP and AI Integration**, and modern backend tools
 - 🚀 Exploring **System Design**, **Varied Algorithmic Approaches**, and **AI-powered automation workflows**
 - 📈 1870+ LeetCode Rating (Knight)
 - 🎯 Motto: *“Someday the results will silence everything.”*
@@ -45,13 +45,13 @@
 
 ## ⚙️ Backend & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,react,wordpress"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi"/>
 
 <br><br>
 
 ## 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,eclipse"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,eclipse,docker"/>
 
 <br><br>
 
