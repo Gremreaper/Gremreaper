@@ -1,4 +1,3 @@
-## ⚔️ About Me
 <h1 align="center"> Gautam Srivastava </h1>
 
 <div align="center">
@@ -11,7 +10,6 @@
 
 </div>
 
----
 
 ## ⚔️ About Me
 <table> <tr> <td width="65%" valign="middle">
