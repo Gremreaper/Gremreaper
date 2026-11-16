@@ -73,29 +73,31 @@ stakeholders, participating in implementation, debugging, testing, code reviews,
 ## ⚡ Software Engineer Intern — Cadence Design Systems
 `Mar 2025 - Jun 2025`
 
-- Automated regression testing workflows using Perl & Regex
-- Built internal scripts reducing manual effort significantly
-- Worked on EDA backend tooling and low-power test extraction
-- Improved testing efficiency through automation scripting
+- Enhanced Perl-based automation for Verilog/SystemVerilog instance cloning using regex-based parsing across varied
+module, instance and declaration formats, automating approximately 70% of varied cloning scenarios.
+- Worked on Perl/Python automation for Cadence’s Automatic Generation (AG) test-generation flow, handling 50+
+customer-specific configuration options and large testcase permutation spaces.
+- Improved automated test-case generation using combination logic, bit manipulation and parallel execution, supporting the generation of approx 10,000+ test cases.
+- Contributed to enhancing a C++ low-power verification utility that parses VHDL test banks and extracts
+power/voltage-relevant test cases for downstream validation.
 
 ---
 
 ## 🔥 Software Engineering Intern — Swaransoft Solutions
 `Feb 2025 - Mar 2025`
 
-- Built automation-driven AI workflows using n8n
-- Improved organizational platforms and frontend responsiveness
-- Worked on workflow optimization and automation systems
+- Customized WordPress themes and plugins to improve the organization’s website UI, responsiveness and navigation.
+- Built an AI-powered recruitment workflow using n8n, automating candidate screening, assessment generation,
+interview scheduling and communication and reducing the hiring cycle from 1–2 weeks to 2–3 days.
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Finalist — IIT Guwahati Escalade 16.0 (Top 10 / 200+ teams)
+- 🥇 Finalist in IIT-G Escalade 16.0 Bot
+Competition (Top 10/200+ teams nationwide).
 - ⚔️ 1870+ LeetCode Rating (Knight)
-- ⭐ 4-Star GeeksforGeeks Coder
-- 🧠 Strong foundation in DSA, OS, DBMS, CN, and OOPs
-- 🏅 Led technical initiatives and mentored peers in coding activities
+- ⭐ 3-Star(1700+ rating) on GeeksforGeeks
 
 ---
 
