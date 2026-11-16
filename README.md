@@ -39,7 +39,7 @@
 
 ## ⚙️ Backend & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql,langgraph"/>
 
 <br><br>
 
@@ -48,13 +48,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim,eclipse,docker"/>
 
 <br><br>
-
-## 🧰 Some Add-ons
-
-<img src="https://skillicons.dev/icons?i=n8n,salesforce,wordpress"/>
-
-
-
 
 </div>
 
