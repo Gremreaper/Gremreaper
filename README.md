@@ -56,12 +56,17 @@
 # 💼 Experience
 
 ## 🚀 Software Development Engineer — Capgemini
-`Dec 2025 - Present`
+`Dec 2025 - Oct 2026`
 
-- Developing scalable Salesforce Health Cloud solutions
-- Building automation workflows and backend-driven business features
-- Implementing Apex + LWC based enterprise solutions
-- Working with Jira-driven agile development workflows
+- Developed and delivered 10+ enhancement stories for Takeda’s One Patient Access (OPA) healthcare platform,
+implementing application workflows across Experience Cloud and Health Cloud using Apex, LWC, Flows, SOQL
+and XML Metadata specifically contributing to the V6.0 to V7.0 platform upgrade.
+- Contributed to the enhancement of the Fast-Track Registration(FTM) workflow by optimizing interactions among
+Healthcare Professionals (HCPs), Patient Access Managers (PAMs), Medical Leads and Shipment teams, reducing
+patient onboarding time by 33% from 15 to under 10 minutes.
+-Enhanced patient and program workflows, including conditional document requirements, program-request restrictions, request interactions and HTML email notifications across Healthcare Professional and PAM journeys.
+-Collaborated with a 15+ member Agile engineering team across development, QA, business analysis and client
+stakeholders, participating in implementation, debugging, testing, code reviews, demos and production deployments.
 
 ---
 
