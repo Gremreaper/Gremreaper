@@ -13,8 +13,9 @@
 ---
 
 ## ⚔️ About Me
-
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNjk2eDVld2d3NmloYTJ5NTZ0cGhjNmYwN2N6ZXQzbnE4bmZ6OWQyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif" width="300"/>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+</p>
 
 - 🧠 Focused on **Software Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
 - ⚡ Solving problems using **Data Structures and Algorithms**, **Object-Oriented Design Principles and Patterns** and ** System Design Fundamentals**
