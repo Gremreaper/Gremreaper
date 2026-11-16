@@ -6,7 +6,7 @@
 
 > *"Cold discipline > loud talent."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Backend+Engineering+%7C+Scalable+Systems;DSA+%7C+System+Design+%7C+Networking;No+Hype.+Just+Output." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Making;Backend+Engineering+%7C+Scalable+Systems;DSA+%7C+System+Design;No+Hype.+Just+Output." />
 
 </div>
 
