@@ -37,7 +37,7 @@
 
 <br><br>
 
-## ⚙️ Backend & Development
+## ⚙️ Software Development and Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql"/>
 
@@ -117,34 +117,9 @@ Competition (Top 10/200+ teams nationwide).
 
 </div>
 
----
-
-# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://personal-portfolio-ka8a.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/gautam2202">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Gautams_2202/">
-  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ No hype. Just output.
+#  No hype. Just output.
 
 </div>
