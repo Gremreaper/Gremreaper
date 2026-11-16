@@ -1,8 +1,8 @@
-<h1 align="center">⚡ Gautam Srivastava ⚡</h1>
+<h1 align="center"> Gautam Srivastava </h1>
 
 <div align="center">
 
-### Software Engineer in Progress • Backend Engineering • Scalable Systems
+### Software Engineer in Making • Software Engineering and AI • Data Structures and System Design
 
 > *"Cold discipline > loud talent."*
 
@@ -16,10 +16,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 
-- 🧠 Focused on **Backend Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
-- ⚡ Solving problems using **DSA**, **OOPs**, **System Design**, and **Computer Networks**
-- 🛠️ Learning and Building projects with **Python**, **FastAPI**, **Node.js**, **MongoDB**, **Salesforce**, and modern backend tools
-- 🚀 Exploring **Low-Level Design**, **Distributed Systems**, and **AI-powered workflows**
+- 🧠 Focused on **Software Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
+- ⚡ Solving problems using **Data Structures and Algorithms**, **Object-Oriented Design Principles and Patterns** and ** System Design Fundamentals**
+- 🛠️ Learning and Building projects with **Python**, **C++** **FastAPI**, **Docker**, **Postgresql**, **MCP and AI Integration**, and modern backend tools
+- 🚀 Exploring **System Design**, **Varied Algorithmic Approaches**, and **AI-powered automation workflows**
 - 📈 1870+ LeetCode Rating (Knight)
 - 🎯 Motto: *“Someday the results will silence everything.”*
 
