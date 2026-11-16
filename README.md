@@ -39,7 +39,7 @@
 
 ## ⚙️ Backend & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql,langgraph"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql"/>
 
 <br><br>
 
