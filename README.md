@@ -1,17 +1,3 @@
-<h1 align="center"> Gautam Srivastava </h1>
-
-<div align="center">
-
-### Software Engineer in Making • Software Engineering and AI • Data Structures and System Design
-
-> *"Cold discipline > loud talent."*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Making;Backend+Engineering+%7C+Scalable+Systems;DSA+%7C+System+Design;No+Hype.+Just+Output." />
-
-</div>
-
----
-
 ## ⚔️ About Me
 <h1 align="center"> Gautam Srivastava </h1>
 
