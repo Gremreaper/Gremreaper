@@ -37,11 +37,9 @@
 
 <br><br>
 
-<br><br>
-
 ## ⚙️ Backend & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql"/>
 
 <br><br>
 
@@ -51,13 +49,12 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+## 🧰 Some Add-ons
 
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=n8n,salesforce,wordpress"/>
 
-<img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
 
 </div>
 
