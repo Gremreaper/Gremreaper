@@ -14,7 +14,7 @@
 
 ## ⚔️ About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNjk2eDVld2d3NmloYTJ5NTZ0cGhjNmYwN2N6ZXQzbnE4bmZ6OWQyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif" width="300"/>
 
 - 🧠 Focused on **Software Engineering**, **Scalable Systems**, and **Core Computer Science Fundamentals**
 - ⚡ Solving problems using **Data Structures and Algorithms**, **Object-Oriented Design Principles and Patterns** and ** System Design Fundamentals**
@@ -77,7 +77,7 @@ stakeholders, participating in implementation, debugging, testing, code reviews,
 module, instance and declaration formats, automating approximately 70% of varied cloning scenarios.
 - Worked on Perl/Python automation for Cadence’s Automatic Generation (AG) test-generation flow, handling 50+
 customer-specific configuration options and large testcase permutation spaces.
-- Improved automated test-case generation using combination logic, bit manipulation and parallel execution, supporting the generation of approx 10,000+ test cases.
+- Improved automated test-case generation using combination logic, bit manipulation and parallel execution, supporting the generation of approx 10,000+ test cases.
 - Contributed to enhancing a C++ low-power verification utility that parses VHDL test banks and extracts
 power/voltage-relevant test cases for downstream validation.
 
