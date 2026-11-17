@@ -44,7 +44,7 @@
 
 ## ⚙️ Software Development and Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql,streamlit"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,fastapi,postgresql,mysql"/>
 
 <br><br>
 
